@@ -1,3 +1,5 @@
+/* Author: Elton Shumka */
+
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 
